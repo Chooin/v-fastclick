@@ -3,7 +3,7 @@ vue fastclick directive
 ### Installation
 
 ``` sh
-yarn global add v-fastclick
+yarn add v-fastclick
 ```
 
 ### Usage
