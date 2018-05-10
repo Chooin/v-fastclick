@@ -1,0 +1,9 @@
+{
+  "name": "v-fastclick",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^2.4.4"
+  }
+}
